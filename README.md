@@ -6,7 +6,7 @@
 
 <!-- ![build and test](https://img.shields.io/github/actions/workflow/status/ArcherTrister/xabp/build-and-test.yml?branch=dev&style=flat-square) -->
 
-[![codecov](https://codecov.io/gh/ArcherTrister/xabp/branch/dev/graph/badge.svg?token=jUKLCxa6HF)](https://codecov.io/gh/ArcherTrister/xabp) [![NuGet](https://img.shields.io/nuget/v/X.Abp.Templates.svg?style=flat-square)](https://www.nuget.org/packages/X.Abp.Templates) [![GitHub Packages](https://img.shields.io/badge/style-v6.0.5%20alpha-yellow?style=flat-square&label=GitHub%20Packages)](https://www.nuget.org/packages/X.Abp.Templates) [![NuGet Download](https://img.shields.io/nuget/dt/X.Abp.Templates.svg?style=flat-square)](https://www.nuget.org/packages/X.Abp.Templates)
+[![codecov](https://codecov.io/gh/ArcherTrister/xabp/graph/badge.svg?token=N5MFLK5X9Z)](https://codecov.io/gh/ArcherTrister/xabp) [![NuGet](https://img.shields.io/nuget/v/X.Abp.Templates.svg?style=flat-square)](https://www.nuget.org/packages/X.Abp.Templates) [![GitHub Packages](https://img.shields.io/badge/style-v6.0.5%20alpha-yellow?style=flat-square&label=GitHub%20Packages)](https://www.nuget.org/packages/X.Abp.Templates) [![NuGet Download](https://img.shields.io/nuget/dt/X.Abp.Templates.svg?style=flat-square)](https://www.nuget.org/packages/X.Abp.Templates)
 
 <!-- <a href="https://github.com/users/ArcherTrister/packages/nuget/package/X.Abp.Cli"><img src="https://github.githubassets.com/images/modules/site/packages/packages.svg" style="zoom:20%" alt="GitHub Packages"></a> -->
 
