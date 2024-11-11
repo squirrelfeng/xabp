@@ -1,10 +1,10 @@
 <Project>
   <PropertyGroup>
     <!-- All XAbp packages -->
-    <XAbpPackageVersion>8.3.2</XAbpPackageVersion>
+    <XAbpPackageVersion>8.3.3</XAbpPackageVersion>
 
     <!-- All Abp packages -->
-    <AbpPackageVersion>8.3.2</AbpPackageVersion>
+    <AbpPackageVersion>8.3.3</AbpPackageVersion>
 
     <!-- All Microsoft AspNetCore packages -->
     <MicrosoftAspNetCorePackageVersion>8.0.4</MicrosoftAspNetCorePackageVersion>

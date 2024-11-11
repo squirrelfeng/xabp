@@ -2,8 +2,6 @@
 
 [English](./README.en.md) | 简体中文
 
-[更新说明](./RELEASE.md)
-
 <!-- ![build and test](https://img.shields.io/github/actions/workflow/status/ArcherTrister/xabp/build-and-test.yml?branch=dev&style=flat-square) -->
 
 [![codecov](https://codecov.io/gh/ArcherTrister/xabp/graph/badge.svg?token=N5MFLK5X9Z)](https://codecov.io/gh/ArcherTrister/xabp) [![NuGet](https://img.shields.io/nuget/v/X.Abp.Templates.svg?style=flat-square)](https://www.nuget.org/packages/X.Abp.Templates) [![GitHub Packages](https://img.shields.io/badge/style-v6.0.5%20alpha-yellow?style=flat-square&label=GitHub%20Packages)](https://www.nuget.org/packages/X.Abp.Templates) [![NuGet Download](https://img.shields.io/nuget/dt/X.Abp.Templates.svg?style=flat-square)](https://www.nuget.org/packages/X.Abp.Templates)
@@ -26,7 +24,7 @@ XAbp 是一个基于**ABP Framework**框架的完整**基础架构**。通过遵
 更新 XABP CLI:
 
 ```bash
-> dotnet tool update -g X.Abp.Cli --version x.x.x --no-cache
+> dotnet tool update -g X.Abp.Cli --version 8.3.3 --no-cache
 ```
 
 使用 cli 创建一个项目:

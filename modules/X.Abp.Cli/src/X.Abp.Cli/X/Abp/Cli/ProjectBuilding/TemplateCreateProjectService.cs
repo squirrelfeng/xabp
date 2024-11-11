@@ -31,7 +31,7 @@ public class TemplateCreateProjectService : ICreateProjectService, ISingletonDep
 {
     protected const string DefaultPassPhrase = "gsKnGZ041HLL4IM8";
 
-    protected const string DefaultVersion = "8.3.2";
+    protected const string DefaultVersion = "8.3.3";
 
     private static readonly string[] ExclusionFoldersOrFiles =
     {

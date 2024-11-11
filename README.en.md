@@ -2,8 +2,6 @@
 
 English | [Chinese](./README.md)
 
-[Update description](./RELEASE.md)
-
 <!-- ![build and test](https://img.shields.io/github/actions/workflow/status/ArcherTrister/xabp/build-and-test.yml?branch=dev&style=flat-square) -->
 
 [![codecov](https://codecov.io/gh/ArcherTrister/xabp/branch/dev/graph/badge.svg?token=jUKLCxa6HF)](https://codecov.io/gh/ArcherTrister/xabp) [![NuGet](https://img.shields.io/nuget/v/X.Abp.Templates.svg?style=flat-square)](https://www.nuget.org/packages/X.Abp.Templates) [![GitHub Packages](https://img.shields.io/badge/style-v6.0.5%20alpha-yellow?style=flat-square&label=GitHub%20Packages)](https://www.nuget.org/packages/X.Abp.Templates) [![NuGet Download](https://img.shields.io/nuget/dt/X.Abp.Templates.svg?style=flat-square)](https://www.nuget.org/packages/X.Abp.Templates)
@@ -23,7 +21,7 @@ Install the XABP CLI:
 Update the XABP CLI:
 
 ```bash
-> dotnet tool update -g X.Abp.Cli --version 6.0.5-alpha --no-cache
+> dotnet tool update -g X.Abp.Cli --version 8.3.3 --no-cache
 ```
 
 Create a new solution:
